@@ -3,4 +3,4 @@ set -e
 
 . ~/.virtualenvs/python3/bin/activate
 
-PYTHONPATH=. python -m pystache.commands.test
+PYTHONPATH=. python -m python-jenkins.commands.test
