@@ -59,13 +59,7 @@ for i in range(0,5):
     #new_cat_id = catid(values[0]['_id'])
     #print(catid)
 
-    for j in range(0,2):
-        print('DIVYAAAAAAAAAAAAA')
-        print(assigned_assets_size1)
-        assigned_asset_type = assigned_assets_size1[j]['_type']
-        print('DIVYAAAAAAAAAAAAA')
-        assigned_asset_name = assigned_assets_size1[j]['_name']
-        print('DIVYAAAAAAAAAAAAA')
+ 
 
 #[(d['_name'],d['_context.length']) for d in getBodyJsonOldIgc]
 #for key,val in getBodyJsonOldIgc.items():
